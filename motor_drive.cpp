@@ -7,7 +7,7 @@
   - Uses PID to adjust PWM
   - Keeps motor speed stable even when load is applied
 
-  Hardware assumed:
+  Hardware:
   - ESP32
   - DC geared motor with encoder
   - Motor driver such as TB6612FNG
